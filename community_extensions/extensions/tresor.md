@@ -67,8 +67,8 @@ docs:
 
     Issues and feature requests: https://github.com/hugr-lab/tresor
 
-extension_star_count: 7
-extension_star_count_pretty: 7
+extension_star_count: 8
+extension_star_count_pretty: 8
 extension_download_count: 575
 extension_download_count_pretty: 575
 image: '/images/community_extensions/social_preview/preview_community_extension_tresor.png'
